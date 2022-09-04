@@ -1,4 +1,4 @@
-# my-ps2-game
+# Rock, paper and scissors
 Game of rock, paper and scissors with Tyra
 
 ![imagen](https://user-images.githubusercontent.com/104105647/188333719-b188f727-53c0-423f-9522-f0049c17bbb4.png)
