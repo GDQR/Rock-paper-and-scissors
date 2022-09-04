@@ -1,5 +1,5 @@
 # Rock, paper and scissors
-Game of rock, paper and scissors with <a href="https://github.com/h4570/tyra">Tyra engine</a>
+Game of rock, paper and scissors with <a href="https://github.com/h4570/tyra">Tyra engine</a> for Playstation 2
 
 ![imagen](https://user-images.githubusercontent.com/104105647/188333719-b188f727-53c0-423f-9522-f0049c17bbb4.png)
 
