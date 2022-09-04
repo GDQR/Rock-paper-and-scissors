@@ -18,5 +18,5 @@ Game of rock, paper and scissors with Tyra
 1-In the emulator PCSX2, go to "Config" <br />
 2-Go to "Video"  <br />
 3-Go to "Plugin Settings"  <br />
-4-In "Texture Tiltering" choose "Nearest" <br />
+4-In "Texture Tiltering" choose "Nearest" <br /> <br />
 ![pcsx2](https://user-images.githubusercontent.com/104105647/188336292-c6aad2c3-3b79-44f9-b2ba-fdf018c6362c.png)
