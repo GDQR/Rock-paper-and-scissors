@@ -6,4 +6,5 @@ Game of rock, paper and scissors with Tyra
 # Instructions to install and play
 
 Download Game.zip in Releases
+<br />
 In the emulator PCSX2, choose Run .elf
