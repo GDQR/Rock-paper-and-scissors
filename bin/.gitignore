@@ -1,17 +1,4 @@
-background.png
-credits.png
-draw.png
-lose.png
-menu.png
-papel1.png
-papel2.png
-piedra1.png
-piedra2.png
-tijera1.png
-tijera2.png
-pressStart.png
-slot.png
-win.png
-
+# Ignore everything in this directory
+*
 # Except this file
 !.gitignore
