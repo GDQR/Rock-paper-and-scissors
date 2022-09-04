@@ -5,6 +5,10 @@ Game of rock, paper and scissors with Tyra
 
 # Instructions to install and play
 
-Download Game.zip in Releases
+1-Download Game.zip in Releases
 <br />
-In the emulator PCSX2, choose Run .elf
+2-In the emulator PCSX2, choose Run .elf
+<br />
+3-Select racer.elf
+<br />
+4-Play
