@@ -1,4 +1,4 @@
-$PCSX2_PATH = "${Env:ProgramFiles(x86)}/PCSX2"
+$PCSX2_PATH = "F:/Emuladores/PCSX2-1.6.0/PCSX2"
 $PCSX2_EXE = 'pcsx2.exe'
 
 function GetTargetELFName {
